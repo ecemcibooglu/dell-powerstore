@@ -1,0 +1,142 @@
+.header {
+    background-image: url(../img/header.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .banner{
+    background-image: url(../img/banner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .cta-box {
+    box-shadow: 0 2px 2px rgb(10 14 20 / 16%), 0 4px 4px rgb(10 14 20 / 16%), 0 8px 8px rgb(10 14 20 / 16%);
+  }
+  
+  .header-p {
+  font-size: 20px;
+    line-height: 1.5;
+  }
+  
+  .blue-btn {
+  background-color: #41B6E6;
+  color: white;
+  border: 2px solid #41B6E6;
+  }
+  
+  .blue-btn:hover {
+  background-color: transparent;
+  color: #41B6E6;
+  border: 2px solid #41B6E6;
+  }
+  
+  .button-secondary {
+  background-color: #00447C;
+  color: white;
+  border: 2px solid #00447C;
+  }
+  
+  .button-secondary:hover {
+  background-color: transparent;
+  color: #00447C !important;
+  border: 2px solid #00447C;
+  }
+  
+  p {
+  line-height: 1.4;
+  }
+  
+  .text-14 {
+  font-size: 14px;
+  }
+  
+  .text-28 {
+  color:#444444;
+  font-size: 28px;
+  }
+  
+  .text-32 {
+  font-size: 32px;
+  }
+  
+  .text-30 {
+  color:#00447C;
+  font-size: 30px;
+  }
+  
+  h2 {
+      font-size: 29px;
+      }
+  
+  h4 {
+  font-size: 21px;
+  font-weight: 900 !important;
+  }
+  
+  .text-34 {
+  font-size: 34px;
+  font-weight: 900;
+  }
+  
+  .text-white {
+  color: white !important;
+  }
+  
+  .title {
+    font-size: 22px;
+  }
+  
+  .cta-box {
+      box-shadow: 0 2px 2px rgb(10 14 20 / 5%), 0 4px 4px rgb(10 14 20 / 5%), 0 8px 8px rgb(10 14 20 / 2%) !important;
+      }
+  
+  
+  @media screen and (max-width: 768px) {
+  .header-p {
+  font-size: 20px;
+    line-height: 1.5;
+  }
+  
+  .text-14 {
+  font-size: 13px;
+  }
+  
+  .text-28 {
+  color:#444444;
+  font-size: 25px;
+  }
+  
+  .text-32 {
+  font-size: 29px;
+  }
+  
+  .text-30 {
+  color:#00447C;
+  font-size: 28px;
+  }
+  
+  h2 {
+      font-size: 27px;
+      }
+  
+  h4 {
+  font-size: 19px;
+  font-weight: 700 !important;
+  }
+  
+  .title {
+    font-size: 20px;
+  }
+  
+  .text-34 {
+  font-size: 29px;
+  font-weight: 700;
+  }
+  
+  .heading {
+      font-size: 37px;
+  }
+  }
